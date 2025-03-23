@@ -13,6 +13,16 @@ I'm a passionate web developer with a focus on front-end and back-end developmen
 - Personal projects to further enhance my skills in full-stack web development.
 - Exploring modern front-end frameworks and libraries.
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![React](https://img.shields.io/badge/React-%23282C34.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
 ## 📫 How to reach me:
 - Email: perodjorovic@gmail.com
 - LinkedIn: https://www.linkedin.com/in/petar-djorovic-88b391306/?trk=opento_sprofile_details
