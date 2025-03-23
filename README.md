@@ -14,7 +14,8 @@ I'm a passionate web developer with a focus on front-end and back-end developmen
 - Exploring modern front-end frameworks and libraries.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
+![Petar Djorovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petardjorovic&show_icons=true&hide_title=true&count_private=true)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
