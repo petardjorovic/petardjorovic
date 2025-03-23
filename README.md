@@ -13,8 +13,8 @@ I'm a passionate web developer with a focus on front-end and back-end developmen
 - Personal projects to further enhance my skills in full-stack web development.
 - Exploring modern front-end frameworks and libraries.
 
-## 📊 GitHub Stats
-![Petar Djorovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petardjorovic&show_icons=true&hide_title=true&count_private=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=petardjorovic&theme=dark)
+
 
 
 
