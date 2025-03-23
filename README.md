@@ -9,11 +9,7 @@ I'm a passionate web developer with a focus on front-end and back-end developmen
 - **Version Control**: Git, GitHub
 - **Other Tools**: npm
 
-## 💼 Currently working on:
-- Personal projects to further enhance my skills in full-stack web development.
-- Exploring modern front-end frameworks and libraries.
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=petardjorovic&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=petardjorovic)
 
 
 
