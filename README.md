@@ -14,15 +14,20 @@ I'm enthusiastic about connecting with fellow developers, learning from experien
 ## 💼 Currently Seeking Opportunities
 I’m actively seeking my first **web development** job. If you’re looking for a motivated, dedicated, and fast-learning developer to join your team, I would love the opportunity to discuss how I can contribute to your projects. Let’s connect and build something amazing together!
 
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=petardjorovic)
+  </div>
+  <div>
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petardjorovic&layout=compact&langs_count=5)
+  </div>
+</div>
+
 ## 📫 How to Reach Me:
 - **Email**: [perodjorovic@gmail.com](mailto:perodjorovic@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/petar-djorovic-88b391306/?trk=opento_sprofile_details)
 - **GitHub**: [GitHub Profile](https://github.com/petardjorovic)
 
-## 📊 GitHub Stats
-![Petar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petardjorovic&show_icons=true&hide_title=true&count_private=true)
-
-## 🧑‍💻 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petardjorovic&layout=compact&langs_count=5)
 
 Looking forward to learning, growing, and collaborating with others in the tech community! 😊
