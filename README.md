@@ -14,6 +14,7 @@ I'm enthusiastic about connecting with fellow developers, learning from experien
 ## 💼 Currently Seeking Opportunities
 I’m actively seeking my first **web development** job. If you’re looking for a motivated, dedicated, and fast-learning developer to join your team, I would love the opportunity to discuss how I can contribute to your projects. Let’s connect and build something amazing together!
 
+
 |  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=petardjorovic) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petardjorovic&layout=compact&langs_count=5) |
 |---|---|
 
