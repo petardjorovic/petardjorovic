@@ -50,6 +50,3 @@ I'm enthusiastic about connecting with fellow developers, learning from experien
 
 Looking forward to learning, growing, and collaborating with others in the tech community! 😊
 
-## 📊 GitHub Stats
-![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=petardjorovic&show_icons=true&theme=radical)
-
