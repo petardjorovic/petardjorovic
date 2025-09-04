@@ -1,22 +1,16 @@
 # Hi there, I'm Petar Djorovic 👋
 Full Stack Developer | MERN Stack Specialist | Experience with Next.js & Supabase
 
----
-
 ## 💻 About Me
 I’m a full-stack developer specialized in **MERN stack** (MongoDB, Express, React, Node.js).  
 I also have hands-on experience with **Next.js** and **Supabase**, building scalable and user-friendly web applications.  
 
 I enjoy solving challenging problems and creating seamless user experiences through clean, maintainable code.
 
----
-
 ## 🛠️ Skills
 **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, Next.js  
 **Databases:** MongoDB, SQL, MySQL, Supabase  
 **Tools & Others:** Git, Postman, Tailwind CSS, Redux, JWT, Cloudinary  
-
----
 
 ## 🚀 Featured Projects
  **[Blogify](https://github.com/petardjorovic/My-social-network)**  
@@ -28,12 +22,8 @@ E-commerce platform with user/admin dashboards, shopping cart, Stripe payments, 
 **[The Wild Oasis](https://github.com/petardjorovic/BookingsProjectNext)**  
 Booking platform for mountain cabins with Google authentication, availability calendar, and reservations (Next.js, Supabase, TypeScript). 
 
----
-
 ## 🎯 Currently Learning
 Advanced **TypeScript patterns**, **Next.js 14 features**, and **Web3 basics**  
-
----
 
 ## 🚀 Let's Connect
 I'm enthusiastic about connecting with fellow developers, learning from experienced professionals, and contributing to meaningful projects. Whether you’re a fellow developer, an aspiring coder, or someone from the tech community, feel free to reach out! I'm open to collaborations and discussions.
