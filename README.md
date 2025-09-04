@@ -13,6 +13,9 @@ I enjoy solving challenging problems and creating seamless user experiences thro
 **Tools & Others:** Git, Postman, Tailwind CSS, Redux, JWT, Cloudinary  
 
 ## 🚀 Featured Projects
+**[Personal Finance App (Ongoing)](https://github.com/petardjorovic/financeApp)**  
+Full-stack personal finance application for tracking transactions, budgets, savings pots, and recurring expenses. Built with MERN stack, TypeScript, and advanced React patterns (Redux, React Query). Currently implementing filtering, sorting, and responsive design.
+
  **[Blogify](https://github.com/petardjorovic/My-social-network)**  
 Social blogging app with posts, comments, likes, image uploads via Cloudinary, and email verification (MERN stack).  
 
