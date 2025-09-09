@@ -4,7 +4,6 @@ Full Stack Developer | MERN Stack Specialist | Experience with Next.js & Supabas
 ## 💻 About Me
 I’m a full-stack developer specialized in **MERN stack** (MongoDB, Express, React, Node.js).  
 I also have hands-on experience with **Next.js** and **Supabase**, building scalable and user-friendly web applications.  
-
 I enjoy solving challenging problems and creating seamless user experiences through clean, maintainable code.
 
 ## 🛠️ Skills
