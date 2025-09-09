@@ -13,6 +13,4 @@ I enjoy solving challenging problems and creating seamless user experiences thro
 
 ## 📫 How to Reach Me:
 - **Email**: [perodjorovic@gmail.com](mailto:perodjorovic@gmail.com)
-- **LinkedIn**: [linkedin.com/in/petar-djorovic](https://www.linkedin.com/in/petar-djorovic)  
-- **GitHub**: [GitHub Profile](https://github.com/petardjorovic)
 
